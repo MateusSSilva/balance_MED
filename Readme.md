@@ -1,0 +1,1 @@
+Este é o repositório referente aos códigos e análises desenvolvidas no artigo "Application of the movement element decomposition on balance - Recognizing degrees of freedom and instability from head measures"
